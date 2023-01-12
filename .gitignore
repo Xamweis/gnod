@@ -1,2 +1,6 @@
 *.pdf
 secrets.txt
+secrets/
+.ipynb_checkpoints/
+.cache
+songs_json/*00.json
