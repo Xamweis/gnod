@@ -4,3 +4,5 @@ secrets/
 .ipynb_checkpoints/
 .cache
 songs_json/*00.json
+*copy*
+*logger2*
