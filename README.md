@@ -2,5 +2,4 @@
 
 ironhack-labs: `lab_*.ipynb`
 
-recommender & scraper: `/wrapper`
-
+recommender & scraper: `*.ipynb` in `/wrapper`
